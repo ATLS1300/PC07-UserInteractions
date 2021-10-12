@@ -1,5 +1,7 @@
 # PC07 - Interactive Animation (or simple game!)
-This programming challenge will get you to flex your function skills and make your first (very basic) interactive art or game! Create a game where the user interacts with an animated element. The user can click on one or many patterns or shapes and have something happen. Or you can gamify the interaction, and have them click on elements in 30-60 seconds.
+This programming challenge will get you to flex your function skills and make your first (very basic) interactive art or game!<br>
+Create a game where the user interacts with an animated element. The user can click on one or many patterns or shapes and have something happen. Or you can gamify the interaction, and have them click on elements in 30-60 seconds.<br>
+**Think: Who is your user? What are they like? They are not you!!**
 
 You may borrow code from this class or the internet, but you must cite it! Internet code can only account for 20% of your total script length. No more!
 
