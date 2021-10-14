@@ -27,8 +27,10 @@ Try searching "interactive art", "simple game" or "click game" at [codepen.io](h
 2. Have a shape or pattern that has some sort of movement (shrinking, randomly moving, wiggling, etc.)
 3. Use at least one (1) callback function (onclick, on keypress, etc.)* to create user interaction
 4. Create and call at least 1 function* that you have created (a function from PC06 is acceptable!)
+    - This function **must** have at least 1 optional parameter!
 5. Any and all unoriginal code (borrowed, found, etc) should be cited or it is **plagiarism** and you will get a 0 (at best)!
 
+*No more than 20% code from outside class (intenet searches)*
 *Examples given in class code DOES NOT COUNT. Create your own or modify the examples considerably.
 
 ### You should submit:
