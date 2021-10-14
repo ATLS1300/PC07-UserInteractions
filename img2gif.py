@@ -1,10 +1,18 @@
 """
 GIF Converter
 
-              THIS SCRIPT MUST GO IN THE SAME FOLDER AS YOUR IMAGES
+****************************************************
+*                                                  *
+*              THIS SCRIPT MUST GO IN THE          *
+*                   SAME EXACT FOLDER              *
+*              AS THE IMAGE(S) TO CONVERT          *
+*              RUN THIS SCRIPT AND FOLLOW          *
+*                 COMMAND LINE PROMPTS             *
+*                                                  *
+****************************************************
 
-Dr. Z 
-Made: Jan 22, 2020
+Made by: Dr. Z 
+Created: Jan 22, 2020
 
 Modified: 
     Oct 13, 2021 - added explanation prompts, changed order of actions, and keeps transparent background preservation (for use with .pngs)
