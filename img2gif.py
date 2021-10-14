@@ -63,10 +63,13 @@ try:
     else:
         transparency = []
         
-    print("This tool updates your image. No entry defaults to yes (Y). To keep the same, and just convert to a gif, type n to all answers.")
-    print("SCALE keeps the proportions, but allows the image to be made bigger (>1) or smaller (<1).")
-    print("RESIZE allows you to set and strech the image by entering in integer dimension sizes (w, h).")
+    print("\n This tool updates your image. No entry defaults to yes (Y). To keep the same, and just convert to a gif, type n to all answers. \n")
+    print("  SCALE keeps the proportions, but allows the image to be made bigger (>1) or smaller (<1).")
+    print("  RESIZE allows you to set and strech the image by entering in integer dimension sizes (w, h).\n")
     decideScale = input("Do you want to SCALE this image? (keep proportions) (Y/n) ")
+    
+    w,h = img.size
+    print("\n Your image size is {},{} (w,h)".format(w,h))
     decideSize = input("Do you want to RESIZE this image (set dimensions, don't keep proportions)? (Y/n) ")
    
     if decideSize.lower()!='n':
